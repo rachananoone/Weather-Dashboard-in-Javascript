@@ -3,7 +3,7 @@ const locationButton = document.querySelector(".location-btn");
 const cityInput = document.querySelector(".city-input");
 const currentWeatherDiv = document.querySelector(".current-weather");
 const weatherCardsDiv = document.querySelector(".weather-cards");
-const API_KEY = "aba7ef64cf037be6fb8562dff540c3fa";
+const API_KEY = "d985467b2bd2884a1fbbf9fc490bf99e";
 
 const formatDate = (dateString) =>{
     const date = new Date(dateString);
